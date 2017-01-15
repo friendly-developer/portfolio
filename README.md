@@ -1,6 +1,6 @@
 # Portfolio:
 
-This is a single repository of all my development works so far. I intend to provide a basic summary of all the various projects I have worked so far giving a brief overview of the technologies and the functionalities used. 
+This is a single representation of all my development works so far. I intend to provide a basic summary of all the various projects I have worked so far giving a brief overview of the technologies and the functionalities used. 
 
 ## Concepts Implemented for this:
 * *HTML* 5 (duh..Obviously)
