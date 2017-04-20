@@ -3,7 +3,7 @@
 This is a single representation of all my development works so far. I intend to provide a basic summary of all the various projects I have worked so far giving a brief overview of the technologies and the functionalities used. 
 
 ## Concepts Implemented for this:
-* *HTML* 5 (duh..Obviously)
+* *HTML* 5
 * *Javascript*
 * Bootstrap Components
 * Bootstrap
@@ -11,6 +11,9 @@ This is a single representation of all my development works so far. I intend to 
 
 ## Steps to run
 * Use [this website to ](https://gvsvarun.github.io/portfoloio) launch and view  
+* Alternatively, download the repository and run ```npm i``` in the location folder.
+* Pre requistes: Need to have nodejs and npm installed
+* run command ```gulp serve```
 
 Copyright (c) 2016 Varun G
 
